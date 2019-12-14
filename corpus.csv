@@ -1,0 +1,210 @@
+text,category
+after school programs ,services
+all city of houston procurement contracts ,finance
+building line restrictions ,development
+city addresses ,development
+city of houston community centers ,services
+city of houston lot size restrictions ,development
+city roads ,development
+civic clubs ,services
+historic sites landmarks ,development
+houston public library branches ,services
+metro bus routes ,development
+metro bus stops ,development
+metro park and ride ,development
+metro rail lines ,development
+metro rail stations ,development
+metro transit centers ,development
+workforce solutions career offices ,services
+active residential parking permits by district district total_permits ,transportation
+aerial photography ,planning
+air monitoring stations ﻿X Y OBJECTID SITE_NAME ADDRESS BLACK_CARBON ULTRAFINE_PARTICULATE CO SO2 OZONE NO2 NOY_NO PM10 PM2_5 SPECIATED_2_5 PM_COURSE CARBONYLS PAMS_VOC TSP_11101 TSP_METALS TSP_LEAD TOXICS_TO15 MET COMMUNITY_AIR_TOXICS OBJECTID SITE_NAME ADDRESS BLACK_CARBON ULTRAFINE_PARTICULATE CO SO2 OZONE NO2 NOY_NO PM10 PM2_5 SPECIATED_2_5 PM_COURSE CARBONYLS PAMS_VOC TSP_11101 TSP_METALS TSP_LEAD TOXICS_TO15 MET COMMUNITY_AIR_TOXICS ,services
+airport airside pavement ,transportation
+airport buildings ,transportation
+airport parking locations ,transportation
+airport public parking lots ,transportation
+airport rental car lots ,transportation
+airport roadway zones ,transportation
+airport runways ,transportation
+air quality index days year good moderate unhealthy ,services
+ambulatory surgical centers ,services
+archived 2015 litter index ﻿OBJECTID SCORE Shape__Area Shape__Length OBJECTID PD_DAY PD COLLDAY DIST_NUM SCORE1207 SCORE0308 SCORE0708 SCORE1108 SCORE0309 SCORE1009 SCORE0410 SCORE0311 SCORE1011 SCORE0412 SCORE1012_PARTIAL SCORE1112 SCORE0913 SCORE0614 Shape__Area Shape__Length ,services
+bike network ﻿OBJECTID SEG_ID STREETNAME ST_CODE ONEWAY CLASS TYPE Shape__Length OBJECTID SEG_ID STREETNAME ST_CODE ONEWAY CLASS TYPE Shape__Length ,transportation
+bike network supporting datasets ,transportation
+bike share stations addressStreet addressCity addressState addressZipCode bikesAvailable closeTime docksAvailable eventEnd eventStart isEventBased isVirtual isVisible kioskId kioskPublicStatus kioskStatus name notes openTime publicText timeZone totalDocks trikesAvailable kioskConnectionStatus kioskType latitude longitude hasGeofence classicBikesAvailable smartBikesAvailable electricBikesAvailable isArchived ,services
+biz security camera program grants completion_date police_district exterior_cameras_installed zip_code census_tract check_amount application_status ,safety
+building demolitions completed_date objectid opa_account_num address unit zip censustract ownername organization caseorpermitnumber record_type typeofwork city_demo start_date addresskey permitstatus status applicantcapacity primarycontact contractorname contractortype contractoraddress1 contractoraddress2 contractorcity contractorstate contractorzip mostrecentinsp geocode_x geocode_y objectid addresskey opa_account_num address unit zip censustract ownername organization caseorpermitnumber record_type typeofwork city_demo start_date completed_date permitstatus status applicantcapacity primarycontact contractorname contractortype contractoraddress1 contractoraddress2 contractorcity contractorstate contractorzip mostrecentinsp geocode_x geocode_y ,planning
+buildings ﻿OBJECTID BIN FCODE ADDRESS BUILDING_NAME BASE_ELEVATION APPROX_HGT MAX_HGT PARCEL_ID_NUM PARCEL_ID_SOURCE Shape__Area Shape__Length OBJECTID BIN FCODE ADDRESS BUILDING_NAME BASE_ELEVATION APPROX_HGT MAX_HGT PARCEL_ID_NUM PARCEL_ID_SOURCE Shape__Area Shape__Length ,planning
+census block groups ﻿OBJECTID STATE COUNTY TRACT BLKGRP TRCT_BG_KE CTBGRP OBJECTID STATE COUNTY TRACT BLKGRP TRCT_BG_KE CTBGRP ,services
+census blocks ﻿OBJECTID AREA PERIMETER CBLK00_ CBLK00_ID ID FIPSSTCO TRACT2000 BLOCK2000 STFID OBJECTID AREA PERIMETER CBLK00_ CBLK00_ID ID FIPSSTCO TRACT2000 BLOCK2000 STFID ,services
+census tracts ﻿OBJECTID AREA PERIMETER CTCT90_ CTCT90_ID STATE COUNTY TRACT TRACT_NUM DATE_ H2O NUMBER_ TRACT1 TRACTNUM Shape__Area Shape__Length OBJECTID AREA PERIMETER CTCT90_ CTCT90_ID STATE COUNTY TRACT TRACT_NUM DATE_ H2O NUMBER_ TRACT1 TRACTNUM Shape__Area Shape__Length ,services
+childcare map ,services
+child care search ,services
+circuit map ,transportation
+city limits ﻿OBJECTID Shape__Area Shape__Length OBJECTID Shape__Area Shape__Length ,planning
+city payments sub_obj fy check_date document_no dept department_title char_ character_title fm sub_obj_title vendor_name doc_ref_no_prefix doc_ref_no_prefix_definition contract_number contract_description transaction_amount ,services
+commercial corridors ﻿OBJECTID PCPC_NUM GLOBALID NAME P_DIST ST_EXT PT_ADD ZIP SURVEY_YEAR GLA GLA_2003 GLA_1995 COMM_COUNT COMM_COUNT_2003 COMM_COUNT_1995 OCC_COUNT VAC_COUNT VAC_RATE VAC_RATE_2003 VAC_RATE_1995 CORRIDOR_TYPE PHYS_CHAR AGE STAGE STAGE_2003 STAGE_1995 COND_PUB COND_PRIV STORE_MIX COND_SUM COND_SUM_2003 COND_SUM_1995 CRM_ORG SS_DIST CDC_TAX_CREDIT E_ZONES FY12_MGMT FY12_MGMT_AMOUNT FY13_MGMT FY13_MGMT_AMOUNT FY14_MGMT FY14_MGMT_AMOUNT FY15_MGMT FY15_MGMT_AMOUNT FY16_MGMT FY16_MGMT_AMOUNTS FY12_CLEANING FY12_CLEANING_AMOUNT FY13_CLEANING FY13_CLEANING_AMOUNT FY14_CLEANING FY14_CLEANING_AMOUNT FY15_CLEANING FY15_CLEANING_AMOUNT FY11_SIP FY11_SIP_TOTAL FY12_SIP FY12_SIP_TOTAL FY13_SIP FY13_SIP_TOTAL FY14_SIP FY14_SIP_TOTAL FY15_SIP FY15_SIP_TOTAL FY14_IS FY14_IS_AMOUNT FY15_IS FY15_IS_AMOUNT FY08_11_SBP_CITY FY08_11_SBP_TOTAL FY12_15_SBP_CITY FY12_15_SBP_TOTAL FY16_19_SBP_CITY FY16_19_SBP_TOTAL FY08_11_PD FY12_15_PD FY16_19_PD Shape__Area Shape__Length OBJECTID PCPC_NUM GLOBALID NAME P_DIST ST_EXT PT_ADD ZIP SURVEY_YEAR GLA GLA_2003 GLA_1995 COMM_COUNT COMM_COUNT_2003 COMM_COUNT_1995 OCC_COUNT VAC_COUNT VAC_RATE VAC_RATE_2003 VAC_RATE_1995 CORRIDOR_TYPE PHYS_CHAR AGE STAGE STAGE_2003 STAGE_1995 COND_PUB COND_PRIV STORE_MIX COND_SUM COND_SUM_2003 COND_SUM_1995 CRM_ORG SS_DIST CDC_TAX_CREDIT E_ZONES FY12_MGMT FY12_MGMT_AMOUNT FY13_MGMT FY13_MGMT_AMOUNT FY14_MGMT FY14_MGMT_AMOUNT FY15_MGMT FY15_MGMT_AMOUNT FY16_MGMT FY16_MGMT_AMOUNTS FY12_CLEANING FY12_CLEANING_AMOUNT FY13_CLEANING FY13_CLEANING_AMOUNT FY14_CLEANING FY14_CLEANING_AMOUNT FY15_CLEANING FY15_CLEANING_AMOUNT FY11_SIP FY11_SIP_TOTAL FY12_SIP FY12_SIP_TOTAL FY13_SIP FY13_SIP_TOTAL FY14_SIP FY14_SIP_TOTAL FY15_SIP FY15_SIP_TOTAL FY14_IS FY14_IS_AMOUNT FY15_IS FY15_IS_AMOUNT FY08_11_SBP_CITY FY08_11_SBP_TOTAL FY12_15_SBP_CITY FY12_15_SBP_TOTAL FY16_19_SBP_CITY FY16_19_SBP_TOTAL FY08_11_PD FY12_15_PD FY16_19_PD Shape__Area Shape__Length ,planning
+community health assessment Category Indicator subTitle dataType dataSource dataSourceYear description chartComment Note Central Central Northeast Lower Far Northeast Lower North Lower Northeast Lower Northwest Lower South Lower Southwest North North Delaware River Wards South University-Southwest Upper Far Northeast Upper North Upper Northwest West West Park ,services
+complete street types ﻿OBJECTID FNODE_ TNODE_ LPOLY_ RPOLY_ LENGTH STCL2_ STCL2_ID PRE_DIR ST_NAME ST_TYPE SEG_ID ONEWAY CLASS STNAME CLASS1 SPEEDLIM RECSIGN SURFAWIDTH RECFACIL PARKING BIKENETWOR LENGTH_MIL PHASE2_SID SIDEWALK_I COMBINED_S SHAPE_LENG STREET_TYP SIDEWLK_WD WLK_ZN CRB_RMPS PD_PRIORTY FEST_ST BLDING_ZN FURN_ZN BIKE_PARKI LIGHTING STREET_FUR SIDEWLK_CA STREET_TRE PLANTERS STRMWTR_PL TRASH_BINS NEWSSTANDS VENDORS ARCH_FEATU BIKE_LANE LEFT_SIDE_ BUFF_BIKE_ CNTRA_FLOW CLIMBNG_BI CYCLE_TRAC SHARED_USE BIKE_FRIEN MARKED_SHA GREEN_PAVE BIKE_SIGNS ON_ST_PARK INST_BIKE_ LAY_BY_LAN LOADING_ZN TRANSIT_ST ALTUSES_PA LANE_WIDTH SPEED_REDU MEDIANS CHICANES BUS_LANES DRIVEWAYS UTILITIES CONSTRUCTI STORMWATER Shape__Length ,planning
+condom distribution sites ﻿X Y OBJECTID SITE_NAME HOURS ADDRESS CITY STATE ZIP OBJECTID SITE_NAME HOURS ADDRESS CITY STATE ZIP ,services
+craigslist all jobs phila only ,services
+crash points WORK_ZONE UNDERAGE_D MCYCLE_MAJ LOCAL_RO_1 UNB_MAJ_IN STOP_CONTR PROPERTY_D BICYCLE MIN_INJ_CO BELTED_DEA FATAL_OR_M BICYCLE_DE INTERSTATE CRS_INVEST lat_final CRASH_YEAR LONGITUDE SIGNALIZED DRIVER_C_3 DRIVER_C_2 DRIVER_C_1 BELTED_MAJ NO_CLEARAN DRIVER_COU SUDDEN_DEE ICY_ROAD SPEEDING long_final INJURY UNLICENSED CURVE_DVR_ BICYCLE_MA MOD_INJ_CO REAR_END HIT_BARRIE SCHOOL_ZON AGGRESSIVE CRN DRIVER_75P PED_COUNT VEHICLE_FA DISTRACTED SMALL_TRUC ILLUMINATI CRASH_MONT UNBELTED_O CRASH_DATE TRAIN_TROL PED_DEATH_ HOUR_OF_DA MCYCLE_DEA HIT_GDRAIL ROAD_CONDI HIT_DEER MOTORCYC_1 PED_MAJ_IN HVY_TRUCK_ UNSIGNALIZ LIMIT_65MP FATAL_COUN ARRIVAL_TM SPEEDING_R HIT_POLE VAN_COUNT HIT_BRIDGE INTERSECT_ SUV_COUNT MOTORCYCLE INTERSECTI FATAL LOCATION_T CROSS_MEDI DRIVER_17Y WEATHER SCH_BUS_IN DISPATCH_T WET_ROAD COMM_VEH_C UNK_INJ_PE PERSON_COU HO_OPPDIR_ DAY_OF_WEE PEDESTRIAN LOCAL_ROAD FATIGUE_AS BICYCLE_CO SHLDR_RELA DATE_OF_MO DRIVER_16Y DRINKING_D NON_INTERS TURNPIKE RUNNING_RE MAX_SEVERI HIT_TREE_S RELATION_T UNB_DEATH_ BUS_COUNT UNBELTED TOT_INJ_CO SV_RUN_OFF POLICE_AGC UNK_INJ_DE AUTOMOBILE DRIVER_65_ HIT_FIXED_ TCD_TYPE OVERTURNED MAJ_INJ_CO COLLISION_ STATE_ROAD SNOW_SLUSH TIME_OF_DA ALCOHOL_RE SCH_ZONE_I SCHOOL_BUS PHANTOM_VE HIT_GDRA_1 CELL_PHONE HEAVY_TRUC VEHICLE_CO TAILGATING HIT_EMBANK LATITUDE CRN POLICE_AGC CRASH_YEAR CRASH_MONT DATE_OF_MO DAY_OF_WEE TIME_OF_DA HOUR_OF_DA ILLUMINATI WEATHER ROAD_CONDI COLLISION_ RELATION_T WORK_ZONE_ WORK_ZONE1 INTERSECT_ TCD_TYPE LOCATION_T SCH_BUS_IN SCH_ZONE_I PERSON_COU VEHICLE_CO AUTOMOBILE MOTORCYCLE BUS_COUNT SMALL_TRUC HEAVY_TRUC SUV_COUNT VAN_COUNT BICYCLE_CO FATAL_COUN MAJ_INJ_CO MOD_INJ_CO MIN_INJ_CO TOT_INJ_CO UNK_INJ_DE UNK_INJ_PE DRIVER_COU DRIVER_C_1 DRIVER_C_2 DRIVER_C_3 UNBELTED_O UNB_DEATH_ UNB_MAJ_IN BELTED_DEA BELTED_MAJ MCYCLE_DEA MCYCLE_MAJ BICYCLE_DE BICYCLE_MA PED_COUNT PED_DEATH_ PED_MAJ_IN MAX_SEVERI COMM_VEH_C LATITUDE LONGITUDE CRASH_DATE ARRIVAL_TM CONS_ZONE_ CRS_INVEST DISPATCH_T lat_final long_final INTERSTATE STATE_ROAD LOCAL_ROAD LOCAL_RO_1 TURNPIKE WET_ROAD SNOW_SLUSH ICY_ROAD SUDDEN_DEE SHLDR_RELA REAR_END HO_OPPDIR_ HIT_FIXED_ SV_RUN_OFF WORK_ZONE PROPERTY_D FATAL_OR_M INJURY FATAL NON_INTERS INTERSECTI SIGNALIZED STOP_CONTR UNSIGNALIZ SCHOOL_BUS SCHOOL_ZON HIT_DEER HIT_TREE_S HIT_EMBANK HIT_POLE HIT_GDRAIL HIT_GDRA_1 HIT_BARRIE HIT_BRIDGE OVERTURNED MOTORCYC_1 BICYCLE HVY_TRUCK_ VEHICLE_FA TRAIN_TROL PHANTOM_VE ALCOHOL_RE DRINKING_D UNDERAGE_D UNLICENSED CELL_PHONE NO_CLEARAN RUNNING_RE TAILGATING CROSS_MEDI CURVE_DVR_ LIMIT_65MP SPEEDING SPEEDING_R AGGRESSIVE FATIGUE_AS DRIVER_16Y DRIVER_17Y DRIVER_65_ DRIVER_75P UNBELTED PEDESTRIAN DISTRACTED LAT LNG ,transportation
+crime incidents the_geom lng objectid dc_dist psa dispatch_date_time dispatch_date dispatch_time the_geom_webmercator dc_key location_block ucr_general text_general_code point_x point_y lat hour_ objectid dc_dist psa dispatch_date_time dispatch_date dispatch_time hour_ dc_key location_block ucr_general text_general_code point_x point_y ,safety
+curb edges ﻿OBJECTID AREA PERIMETER CURBS_POLY_ CURBS_POLY_ID FCODE ELEV_1 ELEV_2 ELEV_3 UPDATE_ ADD_DATE CHG_SRC CP_ID Shape__Area Shape__Length OBJECTID AREA PERIMETER CURBS_POLY_ CURBS_POLY_ID FCODE ELEV_1 ELEV_2 ELEV_3 UPDATE_ ADD_DATE CHG_SRC CP_ID Shape__Area Shape__Length ,transportation
+dvrpc s connections 2040 choices voices ,planning
+empowerment zones ,planning
+enterprise zones ,planning
+evacuation routes SEG_ID SHAPE_Leng R_HUNDRED L_T_ADD L_HUNDRED ROUTETYPE ONEWAY CLASS STNAME R_F_ADD ROUTENAME UPDATE_ L_F_ADD ST_NAME ZIP_RIGHT R_T_ADD ZIP_LEFT ST_TYPE ST_CODE SEPTASERV Shape_Le_1 MULTI_REP ,safety
+flood hazard zone lines ,planning
+flu shot clinic schedule and locations ﻿X Y OBJECTID FACILITY_NAME ADDRESS ZIP PHONE BEGIN_DATE END_DATE DAYS HOURS FACILITY ELIGIBILITY OBJECTID FACILITY_NAME ADDRESS ZIP PHONE BEGIN_DATE END_DATE DAYS HOURS FACILITY ELIGIBILITY ,services
+health centers ﻿X Y OBJECTID NAME ORGANIZATION ZIP PHONE WEBSITE DENTAL_PHONE FULL_ADDRESS OBJECTID NAME ORGANIZATION ZIP PHONE WEBSITE DENTAL_PHONE FULL_ADDRESS ,services
+healthy corner store locations ,services
+healthystart crcs ﻿X Y OBJECTID FACILITY_NAME ADDRESS CITY STATE ZIP PHONE DAYS_OPEN HOURS OBJECTID FACILITY_NAME ADDRESS CITY STATE ZIP PHONE DAYS_OPEN HOURS ,services
+heliports ,transportation
+high injury network objectid stname objectid stname ,services
+highway districts ﻿OBJECTID_1 OBJECTID HIGHWAYS_D HIGHWAYS_1 DISTRICT Shape__Area Shape__Length OBJECTID_1 OBJECTID HIGHWAYS_D HIGHWAYS_1 DISTRICT Shape__Area Shape__Length ,transportation
+historic streets ﻿OBJECTID_12 OBJECTID_1 OBJECTID GIS_STREET ON_STREET FROM_STREE TO_STREET ST_CODE SEG_ID ONEWAY CLASS RESPONSIBL L_HUNDRED R_HUNDRED BLOCKNUMBE PRIMARYROA Shape__Length OBJECTID_12 OBJECTID_1 OBJECTID GIS_STREET ON_STREET FROM_STREE TO_STREET ST_CODE SEG_ID ONEWAY CLASS RESPONSIBL L_HUNDRED R_HUNDRED BLOCKNUMBE PRIMARYROA Shape__Length ,planning
+home health agencies ,services
+homes saved census_tract number_of_properties date_added ,services
+homicides in philadelphia county ,safety
+hospices ,services
+housing counseling agencies ﻿X Y OBJECTID AGENCY STREET_ADDRESS ZIP_CODE PHONE_NUMBER WEBSITE_URL FORECLOSURE PRE_PURCHASE SPECIALTY OBJECTID AGENCY STREET_ADDRESS ZIP_CODE PHONE_NUMBER WEBSITE_URL FORECLOSURE PRE_PURCHASE SPECIALTY ,services
+housing production ﻿X Y OBJECTID FISCAL_YEAR_COMPLETE PROJECT_NAME DEVELOPER_NAME ADDRESS PROJECT_TYPE TOTAL_UNITS ACCESSIBLE_UNITS SENSORY_UNITS VISITABLE_UNITS OBJECTID FISCAL_YEAR_COMPLETE PROJECT_NAME DEVELOPER_NAME ADDRESS PROJECT_TYPE TOTAL_UNITS ACCESSIBLE_UNITS SENSORY_UNITS VISITABLE_UNITS ,services
+hydrology ﻿OBJECTID CREEK_NAME MUNI COUNTY WATERSHED SUBSHED LABEL SEGMENT_ID REACH_ID INF1 INF2 INF3 INF4 INF_ID SOURCE GNIS_NAME GNIS_ID MON_ID RESTORATION_ID ORDER_SHREVE ORDER_STRAHLER UREACHID FACILITYID EDITOR EDIT_DATE NOTES RIVERMILE OBJECTID CREEK_NAME MUNI COUNTY WATERSHED SUBSHED LABEL SEGMENT_ID REACH_ID INF1 INF2 INF3 INF4 INF_ID SOURCE GNIS_NAME GNIS_ID MON_ID RESTORATION_ID ORDER_SHREVE ORDER_STRAHLER UREACHID FACILITYID EDITOR EDIT_DATE NOTES RIVERMILE ,planning
+indego bike share trips ,services
+indego bikeshare usage ,transportation
+land use c_dig3 objectid c_dig1desc c_dig2 c_dig2desc c_dig1 c_dig3desc vacbldg year lat lng objectid c_dig1 c_dig1desc c_dig2 c_dig2desc c_dig3 c_dig3desc vacbldg year ,planning
+license and inspections appeals the_geom lng objectid addresskey opa_account_num address unit zip censustract ownername organization primaryapplicant applicantcapacity appeal_key appealno the_geom_webmercator appapproveddate finalleddate descriptionofproject applicstatus applictype appealgrounds date_scheduled decision proviso decisiondate geocode_x geocode_y lat processeddate objectid addresskey opa_account_num address unit zip censustract ownername organization primaryapplicant applicantcapacity appeal_key appealno processeddate appapproveddate finalleddate descriptionofproject applicstatus applictype appealgrounds date_scheduled decision proviso decisiondate geocode_x geocode_y ,planning
+licenses and inspections building permits the_geom lng objectid addresskey opa_account_num address unit zip censustract ownername organization permitnumber permittype permitdescription permit_type_name typeofwork the_geom_webmercator permitissuedate status moddttm applicantcapacity contractorname contractoraddress1 contractoraddress2 contractorcity contractorstate contractorzip mostrecentinsp geocode_x geocode_y council_district lat descriptionofwork objectid addresskey opa_account_num address unit zip censustract ownername organization permitnumber permittype permitdescription permit_type_name typeofwork descriptionofwork permitissuedate status moddttm applicantcapacity contractorname contractoraddress1 contractoraddress2 contractorcity contractorstate contractorzip mostrecentinsp geocode_x geocode_y council_district ,planning
+licenses and inspections business licenses numberofunits objectid revenuecode licensetype initialissuedate mostrecentissuedate inactivedate licensestatus fulladdress street_address zip eclipse_addressobjectid licensenum opaaccount censustract councildistrict legalfirstname legallastname legalname legalentitytype business_name business_mailing_address geocode_x geocode_y objectid licensenum revenuecode licensetype initialissuedate mostrecentissuedate inactivedate licensestatus fulladdress street_address zip eclipse_addressobjectid numberofunits opaaccount censustract councildistrict legalfirstname legallastname legalname legalentitytype business_name business_mailing_address geocode_x geocode_y ,planning
+licenses and inspections violations the_geom lng objectid addresskey opa_account_num address unit zip censustract council_district ownername organization casenumber aptype caseaddeddate the_geom_webmercator caseresolutioncode apfailkey violationdate violationtype violationdescription mostrecentinsp status casestatus casegroup casepriority prioritydesc geocode_x geocode_y lat caseresolutiondate objectid addresskey opa_account_num address unit zip censustract council_district ownername organization casenumber aptype caseaddeddate caseresolutiondate caseresolutioncode apfailkey violationdate violationtype violationdescription mostrecentinsp status casestatus casegroup casepriority prioritydesc geocode_x geocode_y ,safety
+litter index ﻿OBJECTID SEG_ID HUNDRED_BLOCK_SCORE LR_HUNDRED_BLOCK YEAR STREET_CLASS STREET_CLASS_NAME SCORE_COLOR Shape__Length OBJECTID SEG_ID HUNDRED_BLOCK_SCORE LR_HUNDRED_BLOCK YEAR STREET_CLASS STREET_CLASS_NAME SCORE_COLOR Shape__Length ,services
+major watersheds ﻿OBJECTID WATERSHED WATERSHED_NAME SQ_MILES ACRES Shape__Area Shape__Length OBJECTID WATERSHED WATERSHED_NAME SQ_MILES ACRES Shape__Area Shape__Length ,planning
+major watersheds regional ﻿OBJECTID WATERSHED WATERSHED_NAME SQ_MILES ACRES Shape__Area Shape__Length OBJECTID WATERSHED WATERSHED_NAME SQ_MILES ACRES Shape__Area Shape__Length ,planning
+neighborhood advisory committee ﻿X Y OBJECTID ORGANIZATION STREET_ADDRESS ZIP_CODE NAC_COORDINATOR PHONE_NUMBER EMAIL_ADDRESS WEBSITE_URL OBJECTID ORGANIZATION STREET_ADDRESS ZIP_CODE NAC_COORDINATOR PHONE_NUMBER EMAIL_ADDRESS WEBSITE_URL ,services
+neighborhood energy centers organization street_address objectid zip_code phone_number lat lng organization street_address objectid zip_code phone_number ,services
+neighborhood food retail ﻿OBJECTID GEOID10 NON_RESIDENTIAL TOTAL_LPSS LPSS_PER1000 TOTAL_HPSS HPSS_PER1000 PCT_HPSS HPSS_ACCESS SUPERMARKET_ACCESS PCT_VEHICLE_AVAILABILITY TOTAL_RESTAURANTS PCT_POVERTY HIGH_POVERTY Shape__Area Shape__Length OBJECTID GEOID10 NON_RESIDENTIAL TOTAL_LPSS LPSS_PER1000 TOTAL_HPSS HPSS_PER1000 PCT_HPSS HPSS_ACCESS SUPERMARKET_ACCESS PCT_VEHICLE_AVAILABILITY TOTAL_RESTAURANTS PCT_POVERTY HIGH_POVERTY Shape__Area Shape__Length ,services
+no thru trucks streets ﻿OBJECTID ON_ FROM_ TO_ YEAR SEG_ID ST_CODE ONEWAY ST_NAME STNAME Shape__Length OBJECTID ON_ FROM_ TO_ YEAR SEG_ID ST_CODE ONEWAY ST_NAME STNAME Shape__Length ,planning
+openmaps ,services
+parking locator ,transportation
+parking violations violation_desc anon_ticket_number state anon_plate_id division location issue_datetime fine issuing_agency lat lon gps zip_code anon_ticket_number issue_datetime state anon_plate_id division location violation_desc fine issuing_agency lat lon gps zip_code ,transportation
+parks and recreation assets ﻿OBJECTID ASSET_NAME SITE_NAME CHILD_OF ADDRESS TYPE USE_ DESCRIPTION SQ_FEET ACREAGE ZIPCODE ALLIAS NOTES TENANT LABEL DPP_ASSET_ID Shape__Area Shape__Length OBJECTID ASSET_NAME SITE_NAME CHILD_OF ADDRESS TYPE USE_ DESCRIPTION SQ_FEET ACREAGE ZIPCODE ALLIAS NOTES TENANT LABEL DPP_ASSET_ID Shape__Area Shape__Length ,planning
+paving plans ﻿OBJECTID PROJECTNUM PROJECTNAM PWDEXPORT BIDNUMBER FUNDING SEG_ID YEAR ESRI_OID OBJECTID PROJECTNUM PROJECTNAM PWDEXPORT BIDNUMBER FUNDING SEG_ID YEAR ESRI_OID ,transportation
+pennsylvania hospitals ,services
+pha housing sites ,services
+philadelphia child blood lead levels zip_code data_redacted num_bll_5plus num_screen perc_5plus zip_code data_redacted num_bll_5plus num_screen perc_5plus ,services
+philadelphia fire department facilities OBJECTID FIRESTA_ ENG LAD BC MED SPCL SPCL2 SPCL3 LOCATION RAD ACTIVE ﻿X Y OBJECTID FIRESTA_ ENG LAD BC MED SPCL SPCL2 SPCL3 LOCATION RAD ACTIVE ,safety
+philadelphia food access ﻿OBJECTID GEOID ACCESS_ Shape__Area Shape__Length OBJECTID GEOID ACCESS_ Shape__Area Shape__Length ,services
+philadelphia hospitals ﻿X Y OBJECTID HOSPITAL_NAME STREET_ADDRESS CITY STATE ZIP_CODE PHONE_NUMBER HOSPITAL_TYPE OBJECTID HOSPITAL_NAME STREET_ADDRESS CITY STATE ZIP_CODE PHONE_NUMBER HOSPITAL_TYPE ,services
+philadelphia land cover raster ,planning
+philadelphia neighborhoods ,planning
+philadelphia police advisory commission complaints ﻿X Y OBJECTID_1 AGE RACE SEX TYPE DATE_ UNIT ACTION STATUS LONG_ LAT OBJECTID_1 AGE RACE SEX TYPE DATE_ UNIT ACTION STATUS LONG_ LAT ,safety
+philadelphia registered historic districts objectid name designated shape_leng designated1 objectid name designated shape_leng designated1 ,planning
+philadelphia registered historic sites objectid loc district idesigdate1 idesigdate2 ddesigdate intdesigdate objectid loc district idesigdate1 idesigdate2 ddesigdate intdesigdate ,planning
+philly freight finder ,transportation
+phillyhistory org ,transportation
+philly keyspot locations ,services
+philly rising boundaries ﻿OBJECTID_12 OBJECTID_1 ID DIVISION DISTRICT BOUNDARIES DESIGNATED SITE_NAME DISTRICT_2 CATEGORY Shape__Area Shape__Length OBJECTID_12 OBJECTID_1 ID DIVISION DISTRICT BOUNDARIES DESIGNATED SITE_NAME DISTRICT_2 CATEGORY Shape__Area Shape__Length ,services
+phl airport amenities ,transportation
+phlmaps ,services
+planning analysis sections ,planning
+planning districts ﻿OBJECTID_1 OBJECTID DIST_NAME ABBREV Shape__Area Shape__Length OBJECTID_1 OBJECTID DIST_NAME ABBREV Shape__Area Shape__Length ,planning
+police complaints complaint_id date_received district_occurrence general_cap_classification summary ,safety
+police districts ﻿OBJECTID AREA PERIMETER DISTRICT_ DISTRICT_ID DIST_NUM SUM_AREA DIST_NUMC LOCATION PHONE DIV_CODE AREA_SQMI OBJECTID AREA PERIMETER DISTRICT_ DISTRICT_ID DIST_NUM SUM_AREA DIST_NUMC LOCATION PHONE DIV_CODE AREA_SQMI ,safety
+police divisions ﻿OBJECTID PERIMETER DIV_NAME OBJECTID PERIMETER DIV_NAME ,safety
+police service areas ﻿OBJECTID AREA PERIMETER PSACOV_ PSACOV_ID ID DISTRICT__ PSA_NUM OLD_SECTOR DESCRIPT OBJECTID AREA PERIMETER PSACOV_ PSACOV_ID ID DISTRICT__ PSA_NUM OLD_SECTOR DESCRIPT ,safety
+police stations ﻿X Y OBJECTID DISTRICT_NUMBER LOCATION TELEPHONE_NUMBER RULEID OBJECTID DISTRICT_NUMBER LOCATION TELEPHONE_NUMBER RULEID ,safety
+ppr adult exercise equipment objectid asset_name date_installed comments data_source lat lng objectid asset_name date_installed comments data_source ,services
+ppr picnic sites objectid asset_name site_number table_count data_source lat lng objectid asset_name site_number table_count data_source ,services
+ppr spraygrounds ﻿X Y OBJECTID PARK_NAME DATE_INSTALLED SPRAY_STATUS COMMENTS DATA_SOURCE OBJECTID PARK_NAME DATE_INSTALLED SPRAY_STATUS COMMENTS DATA_SOURCE ,planning
+ppr swimming pools ﻿X Y OBJECTID NAME PARK_NAME ADDRESS_911 ZIP_CODE POOL_TYPE POOL_STATUS COMMENTS DATE_INSTALLED DATA_SOURCE OBJECTID NAME PARK_NAME ADDRESS_911 ZIP_CODE POOL_TYPE POOL_STATUS COMMENTS DATE_INSTALLED DATA_SOURCE ,planning
+ppr tennis courts objectid asset_name park_name court_number comments data_source lat lng objectid asset_name park_name court_number comments data_source ,services
+prison releases custody_agency date_of_release sex age race_ethnicity zip custody_agency date_of_release sex age race_ethnicity zip ,services
+real estate transfers adjusted_state_tax_amount objectid document_type display_date street_address zip_code ward grantors grantees cash_consideration other_consideration total_consideration assessed_value common_level_ratio fair_market_value state_tax_amount state_tax_percent local_tax_amount local_tax_percent adjusted_cash_consideration adjusted_other_consideration adjusted_total_consideration adjusted_assessed_value adjusted_fair_market_value document_id adjusted_local_tax_amount receipt_num receipt_date recording_date document_date condo_name unit_num address_low address_low_suffix address_low_frac address_high street_predir street_name street_suffix street_postdir reg_map_id matched_regmap opa_account_num legal_remarks discrepancy property_count lat lng objectid document_id document_type display_date street_address zip_code ward grantors grantees cash_consideration other_consideration total_consideration assessed_value common_level_ratio fair_market_value state_tax_amount state_tax_percent local_tax_amount local_tax_percent adjusted_cash_consideration adjusted_other_consideration adjusted_total_consideration adjusted_assessed_value adjusted_fair_market_value adjusted_state_tax_amount adjusted_local_tax_amount receipt_num receipt_date recording_date document_date condo_name unit_num address_low address_low_suffix address_low_frac address_high street_predir street_name street_suffix street_postdir reg_map_id matched_regmap opa_account_num legal_remarks discrepancy property_count ,planning
+redevelopment certified areas ﻿OBJECTID AREA PERIMETER NAME YEAR STATUS RECERT1 RECERT2 RECERT3 RECERT4 CORRESPREDEVPLAN PLANNINGDISTRICT Shape__Area Shape__Length OBJECTID AREA PERIMETER NAME YEAR STATUS RECERT1 RECERT2 RECERT3 RECERT4 CORRESPREDEVPLAN PLANNINGDISTRICT Shape__Area Shape__Length ,planning
+red light cameras site_id intersection site_location warnings citations number_of_approaches sensor_type ,safety
+registered community organizations ﻿OBJECTID ORGANIZATION_NAME ORGANIZATION_ADDRESS MEETING_LOCATION_ADDRESS ORG_TYPE PREFFERED_CONTACT_METHOD PRIMARY_NAME PRIMARY_ADDRESS PRIMARY_EMAIL PRIMARY_PHONE P_PHONE_EXT ALTERNATE_NAME ALTERNATE_ADDRESS ALTERNATE_EMAIL ALTERNATE_PHONE A_PHONE_EXT EXPIRATIONYEAR EFFECTIVE_DATE Shape__Area Shape__Length OBJECTID ORGANIZATION_NAME ORGANIZATION_ADDRESS MEETING_LOCATION_ADDRESS ORG_TYPE PREFFERED_CONTACT_METHOD PRIMARY_NAME PRIMARY_ADDRESS PRIMARY_EMAIL PRIMARY_PHONE P_PHONE_EXT ALTERNATE_NAME ALTERNATE_ADDRESS ALTERNATE_EMAIL ALTERNATE_PHONE A_PHONE_EXT EXPIRATIONYEAR EFFECTIVE_DATE Shape__Area Shape__Length ,planning
+residential parking permit blocks the_geom lng street city state latitude the_geom_webmercator district_number block side lat longitude street city state latitude longitude district_number block side ,transportation
+ryan white hiv treatment centers ﻿X Y OBJECTID SITE_NAME SUB_NAME ADDRESS LOCATION_DETAIL CITY STATE ZIP_CODE PHONE PHONE_EXTENSION ADDTL_INFO OBJECTID SITE_NAME SUB_NAME ADDRESS LOCATION_DETAIL CITY STATE ZIP_CODE PHONE PHONE_EXTENSION ADDTL_INFO ,services
+sanitation areas ﻿OBJECTID SANAREA Shape__Area Shape__Length OBJECTID SANAREA Shape__Area Shape__Length ,services
+septa bus and rail routes and times ,transportation
+septa bus and trolley location api ,transportation
+septa bus detours ,transportation
+septa locations api ,transportation
+septa mobile ,transportation
+septa next to arrive ,transportation
+septa real time locator ,transportation
+septa regional rail transitview ,transportation
+septa schedules ,transportation
+septa sms transit ,transportation
+septa train lateness ,transportation
+septa transitview ,transportation
+septa travel alerts ,transportation
+shooting victims the_geom lng objectid year dc_key code date_ race sex age wound officer_involved the_geom_webmercator offender_deceased location latino point_x point_y dist time inside outside fatal lat offender_injured objectid year dc_key code date_ race sex age wound officer_involved offender_injured offender_deceased location latino point_x point_y dist time inside outside fatal ,safety
+street centerlines ﻿OBJECTID FNODE_ TNODE_ LPOLY_ RPOLY_ LENGTH STCL2_ STCL2_ID PRE_DIR ST_NAME ST_TYPE SUF_DIR ZIP_LEFT ZIP_RIGHT L_F_ADD L_T_ADD R_F_ADD R_T_ADD ST_CODE L_HUNDRED R_HUNDRED SEG_ID ONEWAY CLASS RESPONSIBL UPDATE_ NEWSEGDATE MULTI_REP STREETLABE STNAME Shape__Length OBJECTID FNODE_ TNODE_ LPOLY_ RPOLY_ LENGTH STCL2_ STCL2_ID PRE_DIR ST_NAME ST_TYPE SUF_DIR ZIP_LEFT ZIP_RIGHT L_F_ADD L_T_ADD R_F_ADD R_T_ADD ST_CODE L_HUNDRED R_HUNDRED SEG_ID ONEWAY CLASS RESPONSIBL UPDATE_ NEWSEGDATE MULTI_REP STREETLABE STNAME Shape__Length ,planning
+street centerlines for high injury network objectid stname objectid stname ,safety
+street lane closures pgw ,transportation
+street name alias list ,planning
+street nodes ﻿X Y OBJECTID ARC_ STREETCL_ STREETCL_I NODE_ID INT_ID UPDATE_ INTERSECTI X_COORD Y_COORD OBJECTID ARC_ STREETCL_ STREETCL_I NODE_ID INT_ID UPDATE_ INTERSECTI X_COORD Y_COORD ,planning
+street place names ,planning
+street poles ﻿X Y OBJECTID OID POLE_NUM TYPE NLUMIN LUM_SIZE HEIGHT POLE_DATE UP_DATE OWNER TAP_ID BLOCK PLATE OBJECTID OID POLE_NUM TYPE NLUMIN LUM_SIZE HEIGHT POLE_DATE UP_DATE OWNER TAP_ID BLOCK PLATE ,planning
+track streets ﻿OBJECTID ON_ FROM_ TO_ SEG_ID FNODE TNODE ST_CODE ONEWAY CLASS EXPOSED OWNER ST_NAME Shape__Length OBJECTID ON_ FROM_ TO_ SEG_ID FNODE TNODE ST_CODE ONEWAY CLASS EXPOSED OWNER ST_NAME Shape__Length ,planning
+traffic count viewer ,transportation
+traffic preventative maintenance districts ﻿OBJECTID DISTRICT PM_POLY SUB_DIST PM_DIST Shape__Area Shape__Length OBJECTID DISTRICT PM_POLY SUB_DIST PM_DIST Shape__Area Shape__Length ,planning
+trulia crime maps phila only ,safety
+valet parking locations parking_district zone_number facility location hours_of_operation spaces ,transportation
+vehicle pedestrian investigations the_geom lng objectid id datetimeoccur weekday location districtoccur psa stopcode stoptype inside_or_outside gender the_geom_webmercator age individual_frisked individual_searched individual_arrested individual_contraband vehicle_frisked vehicle_searched vehicle_contraband point_x point_y lat race objectid id datetimeoccur weekday location districtoccur psa stopcode stoptype inside_or_outside gender race age individual_frisked individual_searched individual_arrested individual_contraband vehicle_frisked vehicle_searched vehicle_contraband point_x point_y ,safety
+vehicular crash data wz_ln_closure objectid_1 crn district county municipality crash_year crash_month day_of_week time_of_day hour_of_day illumination weather road_condition collision_type relation_to_road work_zone_type work_zone_loc work_zone_ind intersect_type tcd_type location_type urban_rural fatal_count injury_count person_count total_units sch_bus_ind sch_zone_ind latitude longitude arrival_tm cons_zone_spd_lim dispatch_tm est_hrs_closed lane_closed ln_close_dir ntfy_hiwy_maint spec_juris_cd tcd_func_cd tfc_detour_ind workers_pres wz_close_detour wz_flagger wz_law_offcr_ind objectid wz_moving wz_other wz_shlder_mdn vehicle_count automobile_count motorcycle_count bus_count small_truck_count heavy_truck_count suv_count van_count bicycle_count maj_inj_count mod_inj_count min_inj_count tot_inj_count unk_inj_deg_count unk_inj_per_count driver_count_16yr driver_count_17yr driver_count_18yr driver_count_19yr driver_count_20yr driver_count_50_64yr driver_count_65_74yr driver_count_75plus unbelted_occ_count unb_death_count unb_maj_inj_count belted_death_count belted_maj_inj_count mcycle_death_count mcycle_maj_inj_count bicycle_death_count bicycle_maj_inj_count ped_count ped_death_count ped_maj_inj_count max_severity_level comm_veh_count dec_lat dec_long rdwy_surf_type_cd county_name objectid_1 objectid crn district county municipality crash_year crash_month day_of_week time_of_day hour_of_day illumination weather road_condition collision_type relation_to_road work_zone_type work_zone_loc work_zone_ind intersect_type tcd_type location_type urban_rural fatal_count injury_count person_count total_units sch_bus_ind sch_zone_ind latitude longitude arrival_tm cons_zone_spd_lim dispatch_tm est_hrs_closed lane_closed ln_close_dir ntfy_hiwy_maint spec_juris_cd tcd_func_cd tfc_detour_ind workers_pres wz_close_detour wz_flagger wz_law_offcr_ind wz_ln_closure wz_moving wz_other wz_shlder_mdn vehicle_count automobile_count motorcycle_count bus_count small_truck_count heavy_truck_count suv_count van_count bicycle_count maj_inj_count mod_inj_count min_inj_count tot_inj_count unk_inj_deg_count unk_inj_per_count driver_count_16yr driver_count_17yr driver_count_18yr driver_count_19yr driver_count_20yr driver_count_50_64yr driver_count_65_74yr driver_count_75plus unbelted_occ_count unb_death_count unb_maj_inj_count belted_death_count belted_maj_inj_count mcycle_death_count mcycle_maj_inj_count bicycle_death_count bicycle_maj_inj_count ped_count ped_death_count ped_maj_inj_count max_severity_level comm_veh_count dec_lat dec_long rdwy_surf_type_cd county_name ,transportation
+vital status events ,services
+walk score phila only ,planning
+watercourses designated for prote ﻿OBJECTID CREEK_NAME MUNI COUNTY WATERSHED SUBSHED LABEL SEGMENT_ID REACH_ID INF1 INF2 INF3 INF4 INF_ID SOURCE GNIS_NAME GNIS_ID MON_ID RESTORATION_ID ORDER_SHREVE ORDER_STRAHLER UREACHID FACILITYID EDITOR EDIT_DATE NOTES RIVERMILE CLASS Shape__Length OBJECTID CREEK_NAME MUNI COUNTY WATERSHED SUBSHED LABEL SEGMENT_ID REACH_ID INF1 INF2 INF3 INF4 INF_ID SOURCE GNIS_NAME GNIS_ID MON_ID RESTORATION_ID ORDER_SHREVE ORDER_STRAHLER UREACHID FACILITYID EDITOR EDIT_DATE NOTES RIVERMILE CLASS Shape__Length ,services
+west philadelphia promise zone ﻿OBJECTID ZONENAME Shape__Area Shape__Length OBJECTID ZONENAME Shape__Area Shape__Length ,services
+zoning archive online ,planning
+zoning base districts ﻿OBJECTID CODE CITYCOR LONG_CODE ZONINGGROUP PENDING PENDINGBILL PENDINGBILLURL Shape__Area Shape__Length OBJECTID CODE CITYCOR LONG_CODE ZONINGGROUP PENDING PENDINGBILL PENDINGBILLURL Shape__Area Shape__Length ,planning
+zoning overlays OBJECTID OVERLAY_NAME OVERLAY_SYMBOL TYPE CODE_SECTION CODE_SECTION_LINK SUNSET_DATE PENDING PENDINGBILL PENDINGBILLURL Shape__Area Shape__Length ,planning
+zoning steep slope protection area ﻿OBJECTID_1 OBJECTID OVERLAY_SY OVERLAY_NA CODE_SECTI REGULATION SUNSET_DAT CODE_SEC_1 Shape__Area Shape__Length OBJECTID_1 OBJECTID OVERLAY_SY OVERLAY_NA CODE_SECTI REGULATION SUNSET_DAT CODE_SEC_1 Shape__Area Shape__Length ,planning
+airport ,transportation
+bike trails ,transportation
+camera ,transportation
+central_business_district ,development
+comp_plan_2007 ,development
+conditional_zoning_boundary ,development
+courthouse_overlay ,development
+downtown_design_area ,development
+driving tour ,transportation
+exits ,transportation
+h1_overlay ,development
+infill_redevelopment_zone ,development
+land_use_2005_inventory ,development
+nd1_overlay ,development
+parcel ,development
+railroads ,transportation
+rural_service_area ,development
+scenic road ,transportation
+street ,transportation
+tif_active ,development
+traffic signal ,transportation
+urban_service_area ,development
+zoning ,development
+certificate of occupancy TrkNo TrkDate PerNo PerDate BlockNo LotNo Qual PropHouseNo PropStreet PropCity OwnerHouseNo OwnerStreet OwnerCity OwnerState OwnerZip CO_Date Latitude Longitude ,safety
+actuarial reports ,finance
+annual capital budgets ,finance
+annual fire police supplemental pension plan ,finance
+annual operating budgets ,finance
+annual retirement relief pension plan ,finance
+audits ,finance
+bid and proposal opportunities proposed publication 2 8 15 py 2015 ,development
+birmingham fund quarterly report ,finance
+birmingham housing study ,development
+business development loans YEAR LOAN INITIATED # LOAN(S) LET  TOTAL AMOUNT LOANED  TOTAL # JOBS CREATED YEAR LOAN(S) REPAID ,development
+city interest real property for sale or development ,development
+comprehensive annual financial reports ,finance
+finance tax and license division ,finance
+industrial park program NAME LOCATION COUNCIL DISTRICT TOTAL ACREAGE AVAILABLE ACREAGE # OF BUSINESSES AT CAPACITY Yes AT CAPACITY No ,development
+kids and jobs ,services
+monthly financial report ,finance
+new business licenses issued New Business Licenses Issued By District  2016 & 2017 YTD              ,development
+small business administration counseling Month Year Start Your Own Business Workshops Registrants One-on-One Counseling Session Registrants ,development
+spotlight on youth monthly newsletter ,services
+youth first kiddie club registration form ,services
+youth services spotlight on youth ,services
